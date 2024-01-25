@@ -1,6 +1,6 @@
 #!url=https://raw.githubusercontent.com/kane-abbe/shadowrocket/main/alipan/token.module
 #!name=阿里网盘token获取
-#!desc=阿里网盘签到token获取
+#!desc=阿里网盘签到token获取,boxjs订阅: https://gist.githubusercontent.com/Sliverkiss/18bd01be356360a8065a21ea71685ad3/raw/sliverkiss.boxjs.json
 
 [Script]
 阿里网盘token获取 = type=http-request,pattern=^https:\/\/(auth|aliyundrive)\.alipan\.com\/v2\/account\/token,requires-body=1,script-path=https://gist.githubusercontent.com/Sliverkiss/33800a98dcd029ba09f8b6fc6f0f5162/raw/aliyun.js
