@@ -3,4 +3,4 @@
 #!desc=阿里网盘签到
 
 [Script]
-阿里网盘签到 = type=cron,script-path=https://gist.githubusercontent.com/Sliverkiss/33800a98dcd029ba09f8b6fc6f0f5162/raw/aliyun.js,cronexpr="20 1,8,9 * * *",timeout=60,script-update-interval=86400,enable=true
+阿里网盘签到 = type=cron,script-path=https://gist.githubusercontent.com/Sliverkiss/33800a98dcd029ba09f8b6fc6f0f5162/raw/aliyun.js,cronexpr="20 1,8,10 * * *",timeout=60,script-update-interval=86400,enable=true
